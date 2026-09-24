@@ -22,7 +22,7 @@ class MainActivity : ComponentActivity() {
             DSY1105007D2026Theme {
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
 
-                    HomeScreen()
+                    //HomeScreen()
                    // Greeting(
                    //     name = "Android",
                    //     modifier = Modifier.padding(innerPadding)
